@@ -1,4 +1,4 @@
-kuby-website  __[(English)](docs/README_EN.md)__  基于yii2开源框架的feehiCMS开源系统开发的网站
+kuby-website 基于yii2开源框架的feehiCMS开源系统开发的网站
 ===============================
 
 
@@ -28,13 +28,7 @@ kuby-website  __[(English)](docs/README_EN.md)__  基于yii2开源框架的feehi
 ---------------
 无需手动安装，配置好数据库就可以访问了，数据库文件在docs文件夹下
  
- * php内置web服务器(仅可用于开发环境,当您的环境中没有web服务器时)
- ```bash
-  cd /path/to/cms
-  php ./yii serve  
-  
-  #至此启动成功，可以通过localhost:8080/和localhost:8080/admin来访问了，在线安装即访问localhost:8080/install.php
- ```
+ 服务器配置说明：
  
  * Apache
  ```bash
