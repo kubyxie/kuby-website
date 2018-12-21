@@ -1,0 +1,233 @@
+a:12:{s:6:"config";s:1677:"a:5:{s:10:"phpVersion";s:6:"7.1.13";s:10:"yiiVersion";s:8:"2.0.15.1";s:11:"application";a:8:{s:3:"yii";s:8:"2.0.15.1";s:4:"name";s:3:"CMS";s:7:"version";s:7:"2.0.4.1";s:8:"language";s:5:"zh-CN";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:0;}s:3:"php";a:5:{s:7:"version";s:6:"7.1.13";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:6:{s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:65:"E:\phpStudy\PHPTutorial\WWW\51uit\vendor/yiisoft/yii2-swiftmailer";}}s:20:"yiisoft/yii2-imagine";a:3:{s:4:"name";s:20:"yiisoft/yii2-imagine";s:7:"version";s:7:"2.1.1.0";s:5:"alias";a:1:{s:12:"@yii/imagine";s:65:"E:\phpStudy\PHPTutorial\WWW\51uit\vendor/yiisoft/yii2-imagine/src";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.8.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:67:"E:\phpStudy\PHPTutorial\WWW\51uit\vendor/yiisoft/yii2-bootstrap/src";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:8:"2.0.13.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:59:"E:\phpStudy\PHPTutorial\WWW\51uit\vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:57:"E:\phpStudy\PHPTutorial\WWW\51uit\vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:59:"E:\phpStudy\PHPTutorial\WWW\51uit\vendor/yiisoft/yii2-faker";}}}}";s:7:"request";s:7108:"a:15:{s:7:"flashes";a:0:{}s:10:"statusCode";i:404;s:14:"requestHeaders";a:10:{s:6:"cookie";s:552:"PHPSESSID=ktqubtmsq7cmfq2v690qev3sd5; _csrf=928a1cd0e0078c605bfeffe62598782d5f6d1d3bb8039a4b2f0df0ec2001e37da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22HbgFNe5_i4IgqAy2Ie5BP_Czzs-l18kD%22%3B%7D; looyu_id=d6a6d4720718a427c2ca647cfe093f0e_20003526%3A40; looyu_20003526=v%3Ab658aaa9c5b04624862955f0d6136672%2Cref%3A%2Cr%3A%2Cmon%3Ahttp%3A//m9102.talk99.cn/monitor%2Cp0%3Ahttp%253A//www.51toufang.com/; Hm_lvt_05ba9f67f360ac9a5ae12b309f0c1bce=1540350135,1540801026,1540883998,1540968036; Hm_lpvt_05ba9f67f360ac9a5ae12b309f0c1bce=1540968036";s:15:"accept-language";s:14:"zh-CN,zh;q=0.9";s:15:"accept-encoding";s:13:"gzip, deflate";s:7:"referer";s:25:"http://www.51toufang.com/";s:6:"accept";s:39:"image/webp,image/apng,image/*,*/*;q=0.8";s:10:"user-agent";s:114:"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36";s:10:"connection";s:10:"keep-alive";s:4:"host";s:17:"www.51toufang.com";s:14:"content-length";s:0:"";s:12:"content-type";s:0:"";}s:15:"responseHeaders";a:5:{s:12:"X-Powered-By";s:10:"PHP/7.1.13";s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:35:"no-store, no-cache, must-revalidate";s:6:"Pragma";s:8:"no-cache";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";}s:5:"route";s:10:"site/error";s:6:"action";s:50:"frontend\controllers\SiteController::actionError()";s:12:"actionParams";a:0:{}s:7:"general";a:5:{s:6:"method";s:3:"GET";s:6:"isAjax";b:0;s:6:"isPjax";b:0;s:7:"isFlash";b:0;s:18:"isSecureConnection";b:0;}s:11:"requestBody";a:0:{}s:6:"SERVER";a:77:{s:15:"ALLUSERSPROFILE";s:14:"C:\ProgramData";s:7:"APPDATA";s:38:"C:\Users\Administrator\AppData\Roaming";s:7:"asl_log";s:16:"Destination=file";s:18:"CommonProgramFiles";s:35:"C:\Program Files (x86)\Common Files";s:23:"CommonProgramFiles(x86)";s:35:"C:\Program Files (x86)\Common Files";s:18:"CommonProgramW6432";s:29:"C:\Program Files\Common Files";s:12:"COMPUTERNAME";s:15:"USER-20161024VW";s:7:"ComSpec";s:27:"C:\Windows\system32\cmd.exe";s:27:"DOCKER_TOOLBOX_INSTALL_PATH";s:31:"D:\Program Files\Docker Toolbox";s:16:"FP_NO_HOST_CHECK";s:2:"NO";s:9:"HOMEDRIVE";s:2:"C:";s:8:"HOMEPATH";s:20:"\Users\Administrator";s:12:"LOCALAPPDATA";s:36:"C:\Users\Administrator\AppData\Local";s:11:"LOGONSERVER";s:17:"\\USER-20161024VW";s:15:"MEmuHyperv_Path";s:37:"D:\Program Files\Microvirt\MEmuHyperv";s:9:"MEmu_Path";s:26:"D:\Program Files\Microvirt";s:15:"MOZ_PLUGIN_PATH";s:59:"D:\Program Files (x86)\Foxit Software\Foxit Reader\plugins\";s:9:"NODE_PATH";s:48:"C:\Program Files\nodejs\node_global\node_modules";s:20:"NUMBER_OF_PROCESSORS";s:1:"4";s:2:"OS";s:10:"Windows_NT";s:4:"Path";s:506:"C:\Ruby23-x64\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;E:\xampp\php;C:\Program Files\TortoiseSVN\bin;C:\Program Files\nodejs\;E:\phpStudy\php\php-7.0.12-nts;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Git\cmd;C:\Python27;C:\Users\Administrator\AppData\Roaming\npm;C:\Users\Administrator\AppData\Roaming\Composer\vendor\bin;E:\phpStudy\PHPTutorial\php\php-7.1.13-nts;E:\phpStudy\PHPTutorial\tools\composer;;D:\Program Files\Docker Toolbox";s:7:"PATHEXT";s:62:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW";s:22:"PROCESSOR_ARCHITECTURE";s:3:"x86";s:22:"PROCESSOR_ARCHITEW6432";s:5:"AMD64";s:20:"PROCESSOR_IDENTIFIER";s:50:"Intel64 Family 6 Model 60 Stepping 3, GenuineIntel";s:15:"PROCESSOR_LEVEL";s:1:"6";s:18:"PROCESSOR_REVISION";s:4:"3c03";s:11:"ProgramData";s:14:"C:\ProgramData";s:12:"ProgramFiles";s:22:"C:\Program Files (x86)";s:17:"ProgramFiles(x86)";s:22:"C:\Program Files (x86)";s:12:"ProgramW6432";s:16:"C:\Program Files";s:6:"PROMPT";s:4:"$P$G";s:12:"PSModulePath";s:51:"C:\Windows\system32\WindowsPowerShell\v1.0\Modules\";s:6:"PUBLIC";s:15:"C:\Users\Public";s:11:"SESSIONNAME";s:7:"Console";s:11:"SystemDrive";s:2:"C:";s:10:"SystemRoot";s:10:"C:\Windows";s:4:"TEMP";s:36:"C:\Users\ADMINI~1\AppData\Local\Temp";s:3:"TMP";s:36:"C:\Users\ADMINI~1\AppData\Local\Temp";s:10:"USERDOMAIN";s:15:"USER-20161024VW";s:8:"USERNAME";s:13:"Administrator";s:11:"USERPROFILE";s:22:"C:\Users\Administrator";s:24:"WEBKIT_IGNORE_SSL_ERRORS";s:1:"1";s:6:"windir";s:10:"C:\Windows";s:21:"windows_tracing_flags";s:1:"3";s:23:"windows_tracing_logfile";s:45:"C:\BVTBin\Tests\installpackage\csilogfile.log";s:28:"_DFX_INSTALL_UNSIGNED_DRIVER";s:1:"1";s:11:"HTTP_COOKIE";s:552:"PHPSESSID=ktqubtmsq7cmfq2v690qev3sd5; _csrf=928a1cd0e0078c605bfeffe62598782d5f6d1d3bb8039a4b2f0df0ec2001e37da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22HbgFNe5_i4IgqAy2Ie5BP_Czzs-l18kD%22%3B%7D; looyu_id=d6a6d4720718a427c2ca647cfe093f0e_20003526%3A40; looyu_20003526=v%3Ab658aaa9c5b04624862955f0d6136672%2Cref%3A%2Cr%3A%2Cmon%3Ahttp%3A//m9102.talk99.cn/monitor%2Cp0%3Ahttp%253A//www.51toufang.com/; Hm_lvt_05ba9f67f360ac9a5ae12b309f0c1bce=1540350135,1540801026,1540883998,1540968036; Hm_lpvt_05ba9f67f360ac9a5ae12b309f0c1bce=1540968036";s:20:"HTTP_ACCEPT_LANGUAGE";s:14:"zh-CN,zh;q=0.9";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:12:"HTTP_REFERER";s:25:"http://www.51toufang.com/";s:11:"HTTP_ACCEPT";s:39:"image/webp,image/apng,image/*,*/*;q=0.8";s:15:"HTTP_USER_AGENT";s:114:"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:9:"HTTP_HOST";s:17:"www.51toufang.com";s:15:"REDIRECT_STATUS";s:3:"200";s:11:"SERVER_NAME";s:17:"www.51toufang.com";s:11:"SERVER_PORT";s:2:"80";s:11:"SERVER_ADDR";s:12:"192.168.0.83";s:11:"REMOTE_PORT";s:5:"60654";s:11:"REMOTE_ADDR";s:12:"192.168.0.83";s:15:"SERVER_SOFTWARE";s:12:"nginx/1.11.5";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:13:"DOCUMENT_ROOT";s:46:"E:/phpStudy/PHPTutorial/WWW/51uit/frontend/web";s:12:"DOCUMENT_URI";s:10:"/index.php";s:11:"REQUEST_URI";s:56:"/uploads/article/avatar/20181011170730_5bbf12d225892.png";s:11:"SCRIPT_NAME";s:10:"/index.php";s:14:"CONTENT_LENGTH";s:0:"";s:12:"CONTENT_TYPE";s:0:"";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:0:"";s:15:"SCRIPT_FILENAME";s:56:"E:/phpStudy/PHPTutorial/WWW/51uit/frontend/web/index.php";s:9:"FCGI_ROLE";s:9:"RESPONDER";s:8:"PHP_SELF";s:10:"/index.php";s:18:"REQUEST_TIME_FLOAT";d:1540968037.884881;s:12:"REQUEST_TIME";i:1540968037;}s:3:"GET";a:0:{}s:4:"POST";a:0:{}s:6:"COOKIE";a:6:{s:9:"PHPSESSID";s:26:"ktqubtmsq7cmfq2v690qev3sd5";s:5:"_csrf";s:130:"928a1cd0e0078c605bfeffe62598782d5f6d1d3bb8039a4b2f0df0ec2001e37da:2:{i:0;s:5:"_csrf";i:1;s:32:"HbgFNe5_i4IgqAy2Ie5BP_Czzs-l18kD";}";s:8:"looyu_id";s:44:"d6a6d4720718a427c2ca647cfe093f0e_20003526:40";s:14:"looyu_20003526";s:108:"v:b658aaa9c5b04624862955f0d6136672,ref:,r:,mon:http://m9102.talk99.cn/monitor,p0:http%3A//www.51toufang.com/";s:39:"Hm_lvt_05ba9f67f360ac9a5ae12b309f0c1bce";s:43:"1540350135,1540801026,1540883998,1540968036";s:40:"Hm_lpvt_05ba9f67f360ac9a5ae12b309f0c1bce";s:10:"1540968036";}s:5:"FILES";a:0:{}s:7:"SESSION";a:1:{s:7:"__flash";a:0:{}}}";s:3:"log";s:3938:"a:1:{s:8:"messages";a:13:{i:0;a:6:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1540968037.9398839;i:4;a:0:{}i:5;i:4134472;}i:1;a:6:{i:0;s:993:"yii\base\InvalidRouteException: Unable to resolve the request "uploads/article/avatar/20181011170730_5bbf12d225892.png". in E:\phpStudy\PHPTutorial\WWW\51uit\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 E:\phpStudy\PHPTutorial\WWW\51uit\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('uploads/article...', Array)
+#1 E:\phpStudy\PHPTutorial\WWW\51uit\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 E:\phpStudy\PHPTutorial\WWW\51uit\frontend\web\index.php(17): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in E:\phpStudy\PHPTutorial\WWW\51uit\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 E:\phpStudy\PHPTutorial\WWW\51uit\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 E:\phpStudy\PHPTutorial\WWW\51uit\frontend\web\index.php(17): yii\base\Application->run()
+#2 {main}";i:1;i:1;i:2;s:25:"yii\web\HttpException:404";i:3;d:1540968037.9508851;i:4;a:0:{}i:5;i:4836840;}i:2;a:6:{i:0;s:90:"SELECT * FROM `qt_menu` WHERE (`is_display`=1) AND (`type`=1) ORDER BY `sort`, `parent_id`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.9688859;i:4;a:0:{}i:5;i:6394360;}i:3;a:6:{i:0;s:70:"Opening DB connection: mysql:host=192.168.6.245;port=3306;dbname=51uit";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1540968037.9688859;i:4;a:0:{}i:5;i:6394800;}i:8;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `qt_category`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.982887;i:4;a:0:{}i:5;i:6423504;}i:11;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'qt_category' AND kcu.table_name = 'qt_category'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.9848869;i:4;a:0:{}i:5;i:6450592;}i:14;a:6:{i:0;s:50:"SELECT * FROM `qt_category` WHERE `alias`='course'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.9858871;i:4;a:0:{}i:5;i:6452136;}i:17;a:6:{i:0;s:56:"SELECT * FROM `qt_category` ORDER BY `sort`, `parent_id`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.986887;i:4;a:0:{}i:5;i:6483440;}i:20;a:6:{i:0;s:101:"Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.0.83";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1540968037.992887;i:4;a:0:{}i:5;i:6467976;}i:21;a:6:{i:0;s:101:"Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.0.83";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1540968037.992887;i:4;a:0:{}i:5;i:6468376;}i:22;a:6:{i:0;s:101:"Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.0.83";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1540968037.9938869;i:4;a:0:{}i:5;i:6464104;}i:23;a:6:{i:0;s:101:"Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.0.83";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1540968037.9938869;i:4;a:0:{}i:5;i:6464504;}i:24;a:6:{i:0;s:79:"Sending email "来自 51uit.com 前台的新日志消息" to "313226713@qq.com"";i:1;i:4;i:2;s:25:"yii\mail\BaseMailer::send";i:3;d:1540968038.0168891;i:4;a:0:{}i:5;i:7466784;}}}";s:9:"profiling";s:3271:"a:3:{s:6:"memory";i:7741600;s:4:"time";d:0.14400911331176758;s:8:"messages";a:12:{i:4;a:6:{i:0;s:70:"Opening DB connection: mysql:host=192.168.6.245;port=3306;dbname=51uit";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1540968037.9688859;i:4;a:0:{}i:5;i:6395072;}i:5;a:6:{i:0;s:70:"Opening DB connection: mysql:host=192.168.6.245;port=3306;dbname=51uit";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1540968037.9808869;i:4;a:0:{}i:5;i:6408464;}i:6;a:6:{i:0;s:90:"SELECT * FROM `qt_menu` WHERE (`is_display`=1) AND (`type`=1) ORDER BY `sort`, `parent_id`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.9808869;i:4;a:0:{}i:5;i:6409232;}i:7;a:6:{i:0;s:90:"SELECT * FROM `qt_menu` WHERE (`is_display`=1) AND (`type`=1) ORDER BY `sort`, `parent_id`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.9808869;i:4;a:0:{}i:5;i:6415224;}i:9;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `qt_category`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.982887;i:4;a:0:{}i:5;i:6424496;}i:10;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `qt_category`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.983887;i:4;a:0:{}i:5;i:6432432;}i:12;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'qt_category' AND kcu.table_name = 'qt_category'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.9848869;i:4;a:0:{}i:5;i:6452480;}i:13;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'qt_category' AND kcu.table_name = 'qt_category'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.9858871;i:4;a:0:{}i:5;i:6453024;}i:15;a:6:{i:0;s:50:"SELECT * FROM `qt_category` WHERE `alias`='course'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.9858871;i:4;a:0:{}i:5;i:6452984;}i:16;a:6:{i:0;s:50:"SELECT * FROM `qt_category` WHERE `alias`='course'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.9858871;i:4;a:0:{}i:5;i:6454472;}i:18;a:6:{i:0;s:56:"SELECT * FROM `qt_category` ORDER BY `sort`, `parent_id`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.986887;i:4;a:0:{}i:5;i:6484256;}i:19;a:6:{i:0;s:56:"SELECT * FROM `qt_category` ORDER BY `sort`, `parent_id`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.989887;i:4;a:0:{}i:5;i:6682392;}}}";s:2:"db";s:2845:"a:1:{s:8:"messages";a:10:{i:6;a:6:{i:0;s:90:"SELECT * FROM `qt_menu` WHERE (`is_display`=1) AND (`type`=1) ORDER BY `sort`, `parent_id`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.9808869;i:4;a:0:{}i:5;i:6409232;}i:7;a:6:{i:0;s:90:"SELECT * FROM `qt_menu` WHERE (`is_display`=1) AND (`type`=1) ORDER BY `sort`, `parent_id`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.9808869;i:4;a:0:{}i:5;i:6415224;}i:9;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `qt_category`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.982887;i:4;a:0:{}i:5;i:6424496;}i:10;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `qt_category`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.983887;i:4;a:0:{}i:5;i:6432432;}i:12;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'qt_category' AND kcu.table_name = 'qt_category'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.9848869;i:4;a:0:{}i:5;i:6452480;}i:13;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'qt_category' AND kcu.table_name = 'qt_category'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.9858871;i:4;a:0:{}i:5;i:6453024;}i:15;a:6:{i:0;s:50:"SELECT * FROM `qt_category` WHERE `alias`='course'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.9858871;i:4;a:0:{}i:5;i:6452984;}i:16;a:6:{i:0;s:50:"SELECT * FROM `qt_category` WHERE `alias`='course'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.9858871;i:4;a:0:{}i:5;i:6454472;}i:18;a:6:{i:0;s:56:"SELECT * FROM `qt_category` ORDER BY `sort`, `parent_id`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.986887;i:4;a:0:{}i:5;i:6484256;}i:19;a:6:{i:0;s:56:"SELECT * FROM `qt_category` ORDER BY `sort`, `parent_id`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1540968037.989887;i:4;a:0:{}i:5;i:6682392;}}}";s:6:"assets";s:548:"a:1:{s:24:"frontend\assets\AppAsset";a:9:{s:3:"css";a:2:{s:1:"a";s:13:"css/style.css";s:1:"b";s:29:"plugins/toastr/toastr.min.css";}s:2:"js";a:3:{s:1:"a";s:16:"js/jquery.min.js";s:1:"b";s:11:"js/index.js";s:1:"c";s:28:"plugins/toastr/toastr.min.js";}s:10:"sourcePath";s:53:"E:\phpStudy\PHPTutorial\WWW\51uit/frontend/web/static";s:8:"basePath";s:62:"E:\phpStudy\PHPTutorial\WWW\51uit\frontend\web\assets\490dab3b";s:7:"baseUrl";s:16:"/assets/490dab3b";s:7:"depends";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}}";s:4:"mail";s:14504:"a:1:{i:0;a:12:{s:12:"isSuccessful";b:1;s:4:"from";s:15:"admin@feehi.com";s:2:"to";s:16:"313226713@qq.com";s:5:"reply";N;s:2:"cc";N;s:3:"bcc";N;s:7:"subject";s:41:"来自 51uit.com 前台的新日志消息";s:7:"charset";s:5:"UTF-8";s:4:"body";s:6525:"2018-10-31 14:40:37
+[192.168.0.83][-][ktqubtmsq7cmfq2v690qev3sd5][error][yii\web\HttpException:404]
+yii\base\InvalidRouteException: Unable to resolve the request
+"uploads/article/avatar/20181011170730_5bbf12d225892.png". in
+E:\phpStudy\PHPTutorial\WWW\51uit\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0
+E:\phpStudy\PHPTutorial\WWW\51uit\vendor\yiisoft\yii2\web\Application.php(103):
+yii\base\Module->runAction('uploads/article...', Array)
+#1
+E:\phpStudy\PHPTutorial\WWW\51uit\vendor\yiisoft\yii2\base\Application.php(386):
+yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 E:\phpStudy\PHPTutorial\WWW\51uit\frontend\web\index.php(17):
+yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in
+E:\phpStudy\PHPTutorial\WWW\51uit\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0
+E:\phpStudy\PHPTutorial\WWW\51uit\vendor\yiisoft\yii2\base\Application.php(386):
+yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 E:\phpStudy\PHPTutorial\WWW\51uit\frontend\web\index.php(17):
+yii\base\Application->run()
+#2 {main}
+2018-10-31 14:40:37
+[192.168.0.83][-][ktqubtmsq7cmfq2v690qev3sd5][info][application] $_GET
+= []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'ktqubtmsq7cmfq2v690qev3sd5'
+    '_csrf' =>
+'928a1cd0e0078c605bfeffe62598782d5f6d1d3bb8039a4b2f0df0ec2001e37da:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"HbgFNe5_i4IgqAy2Ie5BP_Czzs-l18kD\";}'
+    'looyu_id' => 'd6a6d4720718a427c2ca647cfe093f0e_20003526:40'
+    'looyu_20003526' =>
+'v:b658aaa9c5b04624862955f0d6136672,ref:,r:,mon:http://m9102.talk99.cn/monitor,p0:http%3A//www.51toufang.com/'
+    'Hm_lvt_05ba9f67f360ac9a5ae12b309f0c1bce' =>
+'1540350135,1540801026,1540883998,1540968036'
+    'Hm_lpvt_05ba9f67f360ac9a5ae12b309f0c1bce' => '1540968036'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Administrator\\AppData\\Roaming'
+    'asl_log' => 'Destination=file'
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common
+Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'USER-20161024VW'
+    'ComSpec' => 'C:\\Windows\\system32\\cmd.exe'
+    'DOCKER_TOOLBOX_INSTALL_PATH' => 'D:\\Program Files\\Docker
+Toolbox'
+    'FP_NO_HOST_CHECK' => 'NO'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Administrator'
+    'LOCALAPPDATA' => 'C:\\Users\\Administrator\\AppData\\Local'
+    'LOGONSERVER' => '\\\\USER-20161024VW'
+    'MEmuHyperv_Path' => 'D:\\Program Files\\Microvirt\\MEmuHyperv'
+    'MEmu_Path' => 'D:\\Program Files\\Microvirt'
+    'MOZ_PLUGIN_PATH' => 'D:\\Program Files (x86)\\Foxit
+Software\\Foxit Reader\\plugins\\'
+    'NODE_PATH' => 'C:\\Program
+Files\\nodejs\\node_global\\node_modules'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OS' => 'Windows_NT'
+    'Path' =>
+'C:\\Ruby23-x64\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;E:\\xampp\\php;C:\\Program
+Files\\TortoiseSVN\\bin;C:\\Program
+Files\\nodejs\\;E:\\phpStudy\\php\\php-7.0.12-nts;C:\\ProgramData\\ComposerSetup\\bin;C:\\Program
+Files\\Git\\cmd;C:\\Python27;C:\\Users\\Administrator\\AppData\\Roaming\\npm;C:\\Users\\Administrator\\AppData\\Roaming\\Composer\\vendor\\bin;E:\\phpStudy\\PHPTutorial\\php\\php-7.1.13-nts;E:\\phpStudy\\PHPTutorial\\tools\\composer;;D:\\Program
+Files\\Docker Toolbox'
+    'PATHEXT' =>
+'.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 60 Stepping 3,
+GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '3c03'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' =>
+'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SESSIONNAME' => 'Console'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\Windows'
+    'TEMP' => 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'USER-20161024VW'
+    'USERNAME' => 'Administrator'
+    'USERPROFILE' => 'C:\\Users\\Administrator'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\Windows'
+    'windows_tracing_flags' => '3'
+    'windows_tracing_logfile' =>
+'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    '_DFX_INSTALL_UNSIGNED_DRIVER' => '1'
+    'HTTP_COOKIE' => 'PHPSESSID=ktqubtmsq7cmfq2v690qev3sd5;
+_csrf=928a1cd0e0078c605bfeffe62598782d5f6d1d3bb8039a4b2f0df0ec2001e37da%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22HbgFNe5_i4IgqAy2Ie5BP_Czzs-l18kD%22%3B%7D;
+looyu_id=d6a6d4720718a427c2ca647cfe093f0e_20003526%3A40;
+looyu_20003526=v%3Ab658aaa9c5b04624862955f0d6136672%2Cref%3A%2Cr%3A%2Cmon%3Ahttp%3A//m9102.talk99.cn/monitor%2Cp0%3Ahttp%253A//www.51toufang.com/;
+Hm_lvt_05ba9f67f360ac9a5ae12b309f0c1bce=1540350135,1540801026,1540883998,1540968036;
+Hm_lpvt_05ba9f67f360ac9a5ae12b309f0c1bce=1540968036'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://www.51toufang.com/'
+    'HTTP_ACCEPT' => 'image/webp,image/apng,image/*,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64)
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106
+Safari/537.36'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'www.51toufang.com'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'www.51toufang.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '192.168.0.83'
+    'REMOTE_PORT' => '60654'
+    'REMOTE_ADDR' => '192.168.0.83'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' =>
+'E:/phpStudy/PHPTutorial/WWW/51uit/frontend/web'
+    'DOCUMENT_URI' => '/index.php'
+    'REQUEST_URI' =>
+'/uploads/article/avatar/20181011170730_5bbf12d225892.png'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' =>
+'E:/phpStudy/PHPTutorial/WWW/51uit/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1540968037.8849
+    'REQUEST_TIME' => 1540968037
+]";s:4:"time";i:1540968038;s:7:"headers";O:26:"Swift_Mime_SimpleHeaderSet":5:{s:36:" Swift_Mime_SimpleHeaderSet _factory";O:30:"Swift_Mime_SimpleHeaderFactory":4:{s:40:" Swift_Mime_SimpleHeaderFactory _encoder";O:40:"Swift_Mime_HeaderEncoder_QpHeaderEncoder":2:{s:14:" * _charStream";O:39:"Swift_CharacterStream_NgCharacterStream":9:{s:52:" Swift_CharacterStream_NgCharacterStream _charReader";O:32:"Swift_CharacterReader_Utf8Reader":0:{}s:59:" Swift_CharacterStream_NgCharacterStream _charReaderFactory";O:57:"Swift_CharacterReaderFactory_SimpleCharacterReaderFactory":0:{}s:49:" Swift_CharacterStream_NgCharacterStream _charset";s:5:"UTF-8";s:47:" Swift_CharacterStream_NgCharacterStream _datas";s:24:"前台的新日志消息";s:51:" Swift_CharacterStream_NgCharacterStream _datasSize";i:24;s:45:" Swift_CharacterStream_NgCharacterStream _map";a:2:{s:1:"i";a:0:{}s:1:"p";a:8:{i:0;i:3;i:1;i:6;i:2;i:9;i:3;i:12;i:4;i:15;i:5;i:18;i:6;i:21;i:7;i:24;}}s:49:" Swift_CharacterStream_NgCharacterStream _mapType";i:3;s:51:" Swift_CharacterStream_NgCharacterStream _charCount";i:8;s:52:" Swift_CharacterStream_NgCharacterStream _currentPos";i:8;}s:10:" * _filter";N;}s:45:" Swift_Mime_SimpleHeaderFactory _paramEncoder";O:28:"Swift_Encoder_Rfc2231Encoder":1:{s:41:" Swift_Encoder_Rfc2231Encoder _charStream";O:39:"Swift_CharacterStream_NgCharacterStream":9:{s:52:" Swift_CharacterStream_NgCharacterStream _charReader";N;s:59:" Swift_CharacterStream_NgCharacterStream _charReaderFactory";r:18;s:49:" Swift_CharacterStream_NgCharacterStream _charset";s:5:"UTF-8";s:47:" Swift_CharacterStream_NgCharacterStream _datas";s:0:"";s:51:" Swift_CharacterStream_NgCharacterStream _datasSize";i:0;s:45:" Swift_CharacterStream_NgCharacterStream _map";N;s:49:" Swift_CharacterStream_NgCharacterStream _mapType";i:0;s:51:" Swift_CharacterStream_NgCharacterStream _charCount";i:0;s:52:" Swift_CharacterStream_NgCharacterStream _currentPos";i:0;}}s:40:" Swift_Mime_SimpleHeaderFactory _grammar";O:18:"Swift_Mime_Grammar":0:{}s:40:" Swift_Mime_SimpleHeaderFactory _charset";s:5:"UTF-8";}s:36:" Swift_Mime_SimpleHeaderSet _headers";a:8:{s:25:"content-transfer-encoding";a:1:{i:0;O:37:"Swift_Mime_Headers_UnstructuredHeader":8:{s:45:" Swift_Mime_Headers_UnstructuredHeader _value";s:16:"quoted-printable";s:40:" Swift_Mime_Headers_AbstractHeader _name";s:25:"Content-Transfer-Encoding";s:43:" Swift_Mime_Headers_AbstractHeader _grammar";r:48;s:43:" Swift_Mime_Headers_AbstractHeader _encoder";r:15;s:46:" Swift_Mime_Headers_AbstractHeader _lineLength";i:78;s:40:" Swift_Mime_Headers_AbstractHeader _lang";N;s:43:" Swift_Mime_Headers_AbstractHeader _charset";s:5:"UTF-8";s:47:" Swift_Mime_Headers_AbstractHeader _cachedValue";s:16:"quoted-printable";}}s:12:"content-type";a:1:{i:0;O:38:"Swift_Mime_Headers_ParameterizedHeader":10:{s:53:" Swift_Mime_Headers_ParameterizedHeader _paramEncoder";N;s:47:" Swift_Mime_Headers_ParameterizedHeader _params";a:1:{s:7:"charset";s:5:"UTF-8";}s:45:" Swift_Mime_Headers_UnstructuredHeader _value";s:10:"text/plain";s:40:" Swift_Mime_Headers_AbstractHeader _name";s:12:"Content-Type";s:43:" Swift_Mime_Headers_AbstractHeader _grammar";r:48;s:43:" Swift_Mime_Headers_AbstractHeader _encoder";r:15;s:46:" Swift_Mime_Headers_AbstractHeader _lineLength";i:78;s:40:" Swift_Mime_Headers_AbstractHeader _lang";N;s:43:" Swift_Mime_Headers_AbstractHeader _charset";s:5:"UTF-8";s:47:" Swift_Mime_Headers_AbstractHeader _cachedValue";s:10:"text/plain";}}s:12:"mime-version";a:1:{i:0;O:37:"Swift_Mime_Headers_UnstructuredHeader":8:{s:45:" Swift_Mime_Headers_UnstructuredHeader _value";s:3:"1.0";s:40:" Swift_Mime_Headers_AbstractHeader _name";s:12:"MIME-Version";s:43:" Swift_Mime_Headers_AbstractHeader _grammar";r:48;s:43:" Swift_Mime_Headers_AbstractHeader _encoder";r:15;s:46:" Swift_Mime_Headers_AbstractHeader _lineLength";i:78;s:40:" Swift_Mime_Headers_AbstractHeader _lang";N;s:43:" Swift_Mime_Headers_AbstractHeader _charset";s:5:"UTF-8";s:47:" Swift_Mime_Headers_AbstractHeader _cachedValue";s:3:"1.0";}}s:4:"date";a:1:{i:0;O:29:"Swift_Mime_Headers_DateHeader":8:{s:41:" Swift_Mime_Headers_DateHeader _timestamp";i:1540968038;s:40:" Swift_Mime_Headers_AbstractHeader _name";s:4:"Date";s:43:" Swift_Mime_Headers_AbstractHeader _grammar";r:48;s:43:" Swift_Mime_Headers_AbstractHeader _encoder";N;s:46:" Swift_Mime_Headers_AbstractHeader _lineLength";i:78;s:40:" Swift_Mime_Headers_AbstractHeader _lang";N;s:43:" Swift_Mime_Headers_AbstractHeader _charset";s:5:"UTF-8";s:47:" Swift_Mime_Headers_AbstractHeader _cachedValue";s:31:"Wed, 31 Oct 2018 14:40:38 +0800";}}s:10:"message-id";a:1:{i:0;O:39:"Swift_Mime_Headers_IdentificationHeader":8:{s:45:" Swift_Mime_Headers_IdentificationHeader _ids";a:1:{i:0;s:50:"31951f7d17eb7e097871c1ea9d86770b@www.51toufang.com";}s:40:" Swift_Mime_Headers_AbstractHeader _name";s:10:"Message-ID";s:43:" Swift_Mime_Headers_AbstractHeader _grammar";r:48;s:43:" Swift_Mime_Headers_AbstractHeader _encoder";N;s:46:" Swift_Mime_Headers_AbstractHeader _lineLength";i:78;s:40:" Swift_Mime_Headers_AbstractHeader _lang";N;s:43:" Swift_Mime_Headers_AbstractHeader _charset";s:5:"UTF-8";s:47:" Swift_Mime_Headers_AbstractHeader _cachedValue";s:52:"<31951f7d17eb7e097871c1ea9d86770b@www.51toufang.com>";}}s:4:"from";a:1:{i:0;O:32:"Swift_Mime_Headers_MailboxHeader":8:{s:44:" Swift_Mime_Headers_MailboxHeader _mailboxes";a:1:{s:15:"admin@feehi.com";s:16:"Feehi CMS robot ";}s:40:" Swift_Mime_Headers_AbstractHeader _name";s:4:"From";s:43:" Swift_Mime_Headers_AbstractHeader _grammar";r:48;s:43:" Swift_Mime_Headers_AbstractHeader _encoder";r:15;s:46:" Swift_Mime_Headers_AbstractHeader _lineLength";i:78;s:40:" Swift_Mime_Headers_AbstractHeader _lang";N;s:43:" Swift_Mime_Headers_AbstractHeader _charset";s:5:"UTF-8";s:47:" Swift_Mime_Headers_AbstractHeader _cachedValue";s:34:"Feehi CMS robot  <admin@feehi.com>";}}s:7:"subject";a:1:{i:0;O:37:"Swift_Mime_Headers_UnstructuredHeader":8:{s:45:" Swift_Mime_Headers_UnstructuredHeader _value";s:41:"来自 51uit.com 前台的新日志消息";s:40:" Swift_Mime_Headers_AbstractHeader _name";s:7:"Subject";s:43:" Swift_Mime_Headers_AbstractHeader _grammar";r:48;s:43:" Swift_Mime_Headers_AbstractHeader _encoder";r:15;s:46:" Swift_Mime_Headers_AbstractHeader _lineLength";i:76;s:40:" Swift_Mime_Headers_AbstractHeader _lang";N;s:43:" Swift_Mime_Headers_AbstractHeader _charset";s:5:"UTF-8";s:47:" Swift_Mime_Headers_AbstractHeader _cachedValue";s:140:"=?UTF-8?Q?=E6=9D=A5=E8=87=AA?= 51uit.com =?UTF-8?Q?=E5=89=8D=E5=8F=B0=E7=9A=84=E6=96=B0?=
+ =?UTF-8?Q?=E6=97=A5=E5=BF=97=E6=B6=88=E6=81=AF?=";}}s:2:"to";a:1:{i:0;O:32:"Swift_Mime_Headers_MailboxHeader":8:{s:44:" Swift_Mime_Headers_MailboxHeader _mailboxes";a:1:{s:16:"313226713@qq.com";N;}s:40:" Swift_Mime_Headers_AbstractHeader _name";s:2:"To";s:43:" Swift_Mime_Headers_AbstractHeader _grammar";r:48;s:43:" Swift_Mime_Headers_AbstractHeader _encoder";r:15;s:46:" Swift_Mime_Headers_AbstractHeader _lineLength";i:78;s:40:" Swift_Mime_Headers_AbstractHeader _lang";N;s:43:" Swift_Mime_Headers_AbstractHeader _charset";s:5:"UTF-8";s:47:" Swift_Mime_Headers_AbstractHeader _cachedValue";s:16:"313226713@qq.com";}}}s:34:" Swift_Mime_SimpleHeaderSet _order";a:16:{s:11:"return-path";i:0;s:8:"received";i:1;s:14:"dkim-signature";i:2;s:19:"domainkey-signature";i:3;s:6:"sender";i:4;s:10:"message-id";i:5;s:4:"date";i:6;s:7:"subject";i:7;s:4:"from";i:8;s:8:"reply-to";i:9;s:2:"to";i:10;s:2:"cc";i:11;s:3:"bcc";i:12;s:12:"mime-version";i:13;s:12:"content-type";i:14;s:25:"content-transfer-encoding";i:15;}s:37:" Swift_Mime_SimpleHeaderSet _required";a:3:{s:4:"date";i:0;s:10:"message-id";i:1;s:4:"from";i:2;}s:36:" Swift_Mime_SimpleHeaderSet _charset";s:5:"UTF-8";}s:4:"file";s:29:"20181031-144038-0328-9128.eml";}}";s:8:"timeline";s:92:"a:3:{s:5:"start";d:1540968037.9058819;s:3:"end";d:1540968038.049891;s:6:"memory";i:7741600;}";s:4:"user";s:2:"N;";s:6:"router";s:27:"a:1:{s:8:"messages";a:0:{}}";s:7:"summary";a:9:{s:3:"tag";s:13:"5bd94e65e6af5";s:3:"url";s:80:"http://www.51toufang.com/uploads/article/avatar/20181011170730_5bbf12d225892.png";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:12:"192.168.0.83";s:4:"time";d:1540968037.884881;s:10:"statusCode";i:404;s:8:"sqlCount";i:5;s:9:"mailCount";i:1;}s:10:"exceptions";a:0:{}}

@@ -1,0 +1,182 @@
+Message-ID: <1398687ed23c007b4eb9a28b652bd218@www.51toufang.com>
+Date: Wed, 17 Oct 2018 19:00:00 +0800
+Subject: =?UTF-8?Q?=E6=9D=A5=E8=87=AA?= 51uit.com
+ =?UTF-8?Q?=E5=89=8D=E5=8F=B0=E7=9A=84=E6=96=B0?=
+ =?UTF-8?Q?=E6=97=A5=E5=BF=97=E6=B6=88=E6=81=AF?=
+From: Feehi CMS robot  <admin@feehi.com>
+To: 313226713@qq.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+2018-10-17 19:00:00
+[192.168.0.83][-][aoj6k7spk39n8kdorrkavk69vi][error][yii\web\HttpExceptio=
+n:404]
+yii\base\InvalidRouteException: Unable to resolve the request
+"uploads/setting/banner/20180928161655_5bade3771e849.jpg". in
+E:\phpStudy\PHPTutorial\WWW\51uit\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0
+E:\phpStudy\PHPTutorial\WWW\51uit\vendor\yiisoft\yii2\web\Application.php(1=
+03):
+yii\base\Module->runAction('uploads/setting...', Array)
+#1
+E:\phpStudy\PHPTutorial\WWW\51uit\vendor\yiisoft\yii2\base\Application.ph=
+p(386):
+yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 E:\phpStudy\PHPTutorial\WWW\51uit\frontend\web\index.php(17):
+yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: =E9=A1=B5=E9=9D=A2=
+=E6=9C=AA=E6=89=BE=E5=88=B0=E3=80=82 in
+E:\phpStudy\PHPTutorial\WWW\51uit\vendor\yiisoft\yii2\web\Application.php=
+:115
+Stack trace:
+#0
+E:\phpStudy\PHPTutorial\WWW\51uit\vendor\yiisoft\yii2\base\Application.php(=
+386):
+yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 E:\phpStudy\PHPTutorial\WWW\51uit\frontend\web\index.php(17):
+yii\base\Application->run()
+#2 {main}
+2018-10-17 19:00:00
+[192.168.0.83][-][aoj6k7spk39n8kdorrkavk69vi][info][application] $_GET
+=3D []
+
+$_POST =3D []
+
+$_FILES =3D []
+
+$_COOKIE =3D [
+    'PHPSESSID' =3D> 'aoj6k7spk39n8kdorrkavk69vi'
+    '_csrf' =3D>
+'93c77f7c72949de598248df3cb03537921ada8c74621ef301dbf31cc1cee41f0a:2:{i:0;=
+s:5:\"_csrf\";i:1;s:32:\"FmM6W-mFB1yGuncPrAMLX_P9ZgUMeFC5\";}'
+    'looyu_id' =3D> 'd6a6d4720718a427c2ca647cfe093f0e_20003526:27'
+    'looyu_20003526' =3D>
+'v:465591de5184bd8628195974cf5a1eaf,ref:,r:,mon:http://m9102.talk99.cn/mo=
+nitor,p0:http%3A//www.51toufang.com/'
+    'Hm_lvt_05ba9f67f360ac9a5ae12b309f0c1bce' =3D>
+'1539676934,1539746834,1539771120'
+    '_t99_chat' =3D> '1'
+    '_99_mon' =3D> '[0,0,0]'
+    'Hm_lpvt_05ba9f67f360ac9a5ae12b309f0c1bce' =3D> '1539773993'
+]
+
+$_SESSION =3D [
+    '__flash' =3D> []
+]
+
+$_SERVER =3D [
+    'ALLUSERSPROFILE' =3D> 'C:\\ProgramData'
+    'APPDATA' =3D> 'C:\\Users\\Administrator\\AppData\\Roaming'
+    'asl_log' =3D> 'Destination=3Dfile'
+    'CommonProgramFiles' =3D> 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' =3D> 'C:\\Program Files (x86)\\Common
+Files'
+    'CommonProgramW6432' =3D> 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' =3D> 'USER-20161024VW'
+    'ComSpec' =3D> 'C:\\Windows\\system32\\cmd.exe'
+    'DOCKER_TOOLBOX_INSTALL_PATH' =3D> 'D:\\Program Files\\Docker
+Toolbox'
+    'FP_NO_HOST_CHECK' =3D> 'NO'
+    'HOMEDRIVE' =3D> 'C:'
+    'HOMEPATH' =3D> '\\Users\\Administrator'
+    'LOCALAPPDATA' =3D> 'C:\\Users\\Administrator\\AppData\\Local'
+    'LOGONSERVER' =3D> '\\\\USER-20161024VW'
+    'MEmuHyperv_Path' =3D> 'D:\\Program Files\\Microvirt\\MEmuHyperv'
+    'MEmu_Path' =3D> 'D:\\Program Files\\Microvirt'
+    'MOZ_PLUGIN_PATH' =3D> 'D:\\Program Files (x86)\\Foxit
+Software\\Foxit Reader\\plugins\\'
+    'NODE_PATH' =3D> 'C:\\Program
+Files\\nodejs\\node_global\\node_modules'
+    'NUMBER_OF_PROCESSORS' =3D> '4'
+    'OS' =3D> 'Windows_NT'
+    'Path' =3D>
+'C:\\Ruby23-x64\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\Syste=
+m32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;E:\\xampp\\ph=
+p;C:\\Program
+Files\\TortoiseSVN\\bin;C:\\Program
+Files\\nodejs\\;E:\\phpStudy\\php\\php-7.0.12-nts;C:\\ProgramData\\Compose=
+rSetup\\bin;C:\\Program
+Files\\Git\\cmd;C:\\Python27;C:\\Users\\Administrator\\AppData\\Roaming\\=
+npm;C:\\Users\\Administrator\\AppData\\Roaming\\Composer\\vendor\\bin;E:=
+\\phpStudy\\PHPTutorial\\php\\php-7.1.13-nts;E:\\phpStudy\\PHPTutorial\\=
+tools\\composer;;D:\\Program
+Files\\Docker Toolbox'
+    'PATHEXT' =3D>
+'.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW'
+    'PROCESSOR_ARCHITECTURE' =3D> 'x86'
+    'PROCESSOR_ARCHITEW6432' =3D> 'AMD64'
+    'PROCESSOR_IDENTIFIER' =3D> 'Intel64 Family 6 Model 60 Stepping 3,
+GenuineIntel'
+    'PROCESSOR_LEVEL' =3D> '6'
+    'PROCESSOR_REVISION' =3D> '3c03'
+    'ProgramData' =3D> 'C:\\ProgramData'
+    'ProgramFiles' =3D> 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' =3D> 'C:\\Program Files (x86)'
+    'ProgramW6432' =3D> 'C:\\Program Files'
+    'PROMPT' =3D> '$P$G'
+    'PSModulePath' =3D>
+'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\'
+    'PUBLIC' =3D> 'C:\\Users\\Public'
+    'SESSIONNAME' =3D> 'Console'
+    'SystemDrive' =3D> 'C:'
+    'SystemRoot' =3D> 'C:\\Windows'
+    'TEMP' =3D> 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp'
+    'TMP' =3D> 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp'
+    'USERDOMAIN' =3D> 'USER-20161024VW'
+    'USERNAME' =3D> 'Administrator'
+    'USERPROFILE' =3D> 'C:\\Users\\Administrator'
+    'WEBKIT_IGNORE_SSL_ERRORS' =3D> '1'
+    'windir' =3D> 'C:\\Windows'
+    'windows_tracing_flags' =3D> '3'
+    'windows_tracing_logfile' =3D>
+'C:\\BVTBin\\Tests\\installpackage\\csilogfile.log'
+    '_DFX_INSTALL_UNSIGNED_DRIVER' =3D> '1'
+    'HTTP_COOKIE' =3D> 'PHPSESSID=3Daoj6k7spk39n8kdorrkavk69vi;
+_csrf=3D93c77f7c72949de598248df3cb03537921ada8c74621ef301dbf31cc1cee41f0a=
+%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22FmM6W-mFB1yG=
+uncPrAMLX_P9ZgUMeFC5%22%3B%7D;
+looyu_id=3Dd6a6d4720718a427c2ca647cfe093f0e_20003526%3A27;
+looyu_20003526=3Dv%3A465591de5184bd8628195974cf5a1eaf%2Cref%3A%2Cr%3A%2Cmon=
+%3Ahttp%3A//m9102.talk99.cn/monitor%2Cp0%3Ahttp%253A//www.51toufang.com/;
+Hm_lvt_05ba9f67f360ac9a5ae12b309f0c1bce=3D1539676934,1539746834,1539771120;
+_t99_chat=3D1; _99_mon=3D%5B0%2C0%2C0%5D;
+Hm_lpvt_05ba9f67f360ac9a5ae12b309f0c1bce=3D1539773993'
+    'HTTP_ACCEPT_LANGUAGE' =3D> 'zh-CN,zh;q=3D0.9'
+    'HTTP_ACCEPT_ENCODING' =3D> 'gzip, deflate'
+    'HTTP_REFERER' =3D> 'http://www.51toufang.com/'
+    'HTTP_ACCEPT' =3D> 'image/webp,image/apng,image/*,*/*;q=3D0.8'
+    'HTTP_USER_AGENT' =3D> 'Mozilla/5.0 (Windows NT 6.1; Win64; x64)
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106
+Safari/537.36'
+    'HTTP_CONNECTION' =3D> 'keep-alive'
+    'HTTP_HOST' =3D> 'www.51toufang.com'
+    'REDIRECT_STATUS' =3D> '200'
+    'SERVER_NAME' =3D> 'www.51toufang.com'
+    'SERVER_PORT' =3D> '80'
+    'SERVER_ADDR' =3D> '192.168.0.83'
+    'REMOTE_PORT' =3D> '57763'
+    'REMOTE_ADDR' =3D> '192.168.0.83'
+    'SERVER_SOFTWARE' =3D> 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' =3D> 'CGI/1.1'
+    'SERVER_PROTOCOL' =3D> 'HTTP/1.1'
+    'DOCUMENT_ROOT' =3D>
+'E:/phpStudy/PHPTutorial/WWW/51uit/frontend/web'
+    'DOCUMENT_URI' =3D> '/index.php'
+    'REQUEST_URI' =3D>
+'/uploads/setting/banner/20180928161655_5bade3771e849.jpg'
+    'SCRIPT_NAME' =3D> '/index.php'
+    'CONTENT_LENGTH' =3D> ''
+    'CONTENT_TYPE' =3D> ''
+    'REQUEST_METHOD' =3D> 'GET'
+    'QUERY_STRING' =3D> ''
+    'SCRIPT_FILENAME' =3D>
+'E:/phpStudy/PHPTutorial/WWW/51uit/frontend/web/index.php'
+    'FCGI_ROLE' =3D> 'RESPONDER'
+    'PHP_SELF' =3D> '/index.php'
+    'REQUEST_TIME_FLOAT' =3D> 1539774000.7043
+    'REQUEST_TIME' =3D> 1539774000
+]

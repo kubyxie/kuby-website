@@ -1,0 +1,3958 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com</loc>
+    <priority>1</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information1</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question1</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Language_ability</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Professional_skills</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_International_Employment</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Make_up</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Other</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Painting_and_Calligraphy</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Photography</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Delicious_food</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Jewellery</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Handpainted</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_fashion</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Music</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Interest_in_life</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Conduct_financial_transactions</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Foreign_exchange_investment</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Steering_skills</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Financial_knowledge</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Financial_investment</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Office_finance</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Design_class</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Vocational_skill_appraisal</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_National_Open_University</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Human_resource_management</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Haikou_College_of_Economics</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_distance_learning</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Chinese_language_and_Literature</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Administrative_management</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Educational_background</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Self_examination</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Nurse_practicing_certificate</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Yu_Ge_says_workplace</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Teacher_qualification_certificate</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Online_education</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Entrepreneurship</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Train</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Business_Administration</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Cantonese</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Korean</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Japanese</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Thai</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_English</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Foreign_Languages</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Compulsory_foundation_for_accounting_entry</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_financial_management</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Intermediate_accountant</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Enterprise_earnings_analysis</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Accounting_practice</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Junior_accountant</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_accounting</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Five_pen</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_PPT</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Excel</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Word</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Office_software</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Career_Skills</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_VR_virtual_reality</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_New_media_operation</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_network_marketing</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_SEO</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Taobao_operation</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Electronic_Commerce</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Apple_App_application</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Android_App_application</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Database_programming</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Oracle</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_C++</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_CMS</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Java</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_PHP</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Program_design</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Bootstrap</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_HTML_HTML5</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Dreamweaver</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Front_end_development</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_IT_Internet</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Jewelry_Design</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Hand_painted</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_SolidWorks</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Pro_Engineer</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_AutoCAD</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_machine_design</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Automobile_development_theory</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Vericut</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Powermill</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_UG</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_industrial_design</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_PS_post_processing</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Construction_project_actual_combat</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_AutoCAD</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Heaven_building</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_3DMAX</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Architectural_design</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_project</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_design_theory</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_SketchUp</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_AutoCAD</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_3DMAX</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Interior_design</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Illustrations</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Original_painting</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Maya</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Zbrush</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Nuke</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_3DMAX</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Game_animation</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Vinci</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_CINEMA4D</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Premiere</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_AfterEffects</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Film_and_television_packaging</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Axure</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_UI_design</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Electricity_supplier_industry_class</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Indesign</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Illustrator</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_CorelDRAW</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Photoshop</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Graphic_Artist_Designer</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_Design_creation</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Language_ability</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Professional_skills</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_International_Employment</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Make_up</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Other</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Painting_and_Calligraphy</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Photography</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Delicious_food</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Jewellery</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Handpainted</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_fashion</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Music</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Interest_in_life</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Conduct_financial_transactions</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Foreign_exchange_investment</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Steering_skills</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Financial_knowledge</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Financial_investment</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Office_finance</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Design_class</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Vocational_skill_appraisal</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_National_Open_University</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Human_resource_management</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Haikou_College_of_Economics</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_distance_learning</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Chinese_language_and_Literature</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Administrative_management</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Educational_background</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Self_examination</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Nurse_practicing_certificate</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Yu_Ge_says_workplace</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Teacher_qualification_certificate</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Online_education</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Entrepreneurship</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Train</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Business_Administration</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Cantonese</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Korean</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Japanese</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Thai</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_English</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Foreign_Languages</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Compulsory_foundation_for_accounting_entry</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_financial_management</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Intermediate_accountant</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Enterprise_earnings_analysis</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Accounting_practice</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Junior_accountant</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_accounting</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Five_pen</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_PPT</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Excel</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Word</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Office_software</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Career_Skills</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_VR_virtual_reality</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_New_media_operation</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_network_marketing</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_SEO</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Taobao_operation</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Electronic_Commerce</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Apple_App_application</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Android_App_application</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Database_programming</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Oracle</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_C++</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_CMS</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Java</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_PHP</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Program_design</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Bootstrap</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_HTML_HTML5</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Dreamweaver</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Front_end_development</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_IT_Internet</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Jewelry_Design</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Hand_painted</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_SolidWorks</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Pro_Engineer</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_AutoCAD</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_machine_design</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Automobile_development_theory</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Vericut</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Powermill</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_UG</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_industrial_design</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_PS_post_processing</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Construction_project_actual_combat</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_AutoCAD</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Heaven_building</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_3DMAX</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Architectural_design</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_project</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_design_theory</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_SketchUp</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_AutoCAD</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_3DMAX</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Interior_design</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Illustrations</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Original_painting</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Maya</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Zbrush</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Nuke</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_3DMAX</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Game_animation</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Vinci</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_CINEMA4D</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Premiere</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_AfterEffects</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Film_and_television_packaging</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Axure</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_UI_design</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Electricity_supplier_industry_class</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Indesign</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Illustrator</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_CorelDRAW</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Photoshop</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Graphic_Artist_Designer</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course_Design_creation</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_food</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_job</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_consult</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_student_product</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_student_feeling</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word_image_text</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course</loc>
+    <priority>0.7</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/745</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/744</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/741</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/740</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/739</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/738</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/737</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/736</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/735</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/734</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/733</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/732</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/731</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/730</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/729</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/728</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/727</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/726</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/725</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/724</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/723</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/722</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/721</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/720</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/719</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/718</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/717</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/716</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/715</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/714</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/713</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/712</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/711</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/710</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/709</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/708</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/707</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/706</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/705</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/704</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/703</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/702</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/701</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/700</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/699</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/698</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/697</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/696</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/695</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/694</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/693</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/692</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/691</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/690</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/689</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/688</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/687</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/686</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/685</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/684</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/683</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/682</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/681</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/680</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/679</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/678</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/677</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/676</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/675</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/674</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/673</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/672</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/671</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/670</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/669</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/668</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/667</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/666</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/664</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/663</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/662</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/661</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/659</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/657</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/653</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/652</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/651</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/650</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/649</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/647</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/646</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/645</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/644</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/643</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/642</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/641</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/640</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/639</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/638</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/637</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/636</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/635</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/634</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/633</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/632</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/631</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/630</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/629</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/628</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/627</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/625</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/623</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/622</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/621</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/620</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/619</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/618</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/617</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/616</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/615</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/614</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/613</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/612</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/611</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/610</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/609</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/608</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/607</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/606</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/605</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/604</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/603</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/602</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/601</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/600</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/599</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/598</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/597</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/596</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/595</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/594</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/593</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/592</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/591</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/590</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/589</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/588</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/587</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/586</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/585</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/584</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/583</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/582</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/581</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/580</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/579</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/578</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/577</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/572</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/571</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/568</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/564</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/563</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/560</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/page/about</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/548</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/544</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/543</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/537</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/503</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/course/475</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/457</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/456</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/449</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/447</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/443</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/442</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/439</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/438</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/436</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/434</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/433</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/432</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/430</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/429</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/423</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/419</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/word/404</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/382</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/381</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/380</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/379</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/378</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/377</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/376</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/375</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/374</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/373</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/372</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/293</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/292</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/291</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/290</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/289</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/288</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/287</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/286</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/285</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/information/284</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/283</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/282</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/281</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/280</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/279</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/278</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/277</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/276</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/275</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/274</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/273</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/272</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/271</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/270</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/269</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/268</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/267</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/266</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/265</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/264</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/263</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/262</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/261</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/260</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/259</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/258</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/257</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/256</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/255</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/254</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/253</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/252</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/251</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/250</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/249</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/248</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/247</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/246</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/245</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/244</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/243</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/242</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/241</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/240</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/239</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/238</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/237</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/236</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/235</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/234</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/233</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/232</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/231</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/230</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/229</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/228</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/227</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/226</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/225</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/224</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/223</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/222</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/221</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/220</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/219</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/218</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/217</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/216</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/215</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/214</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/213</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/212</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/211</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/210</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/209</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/208</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/207</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/206</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/205</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/204</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/203</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/202</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/201</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/200</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/199</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/198</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/197</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/196</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/195</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/194</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/193</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/192</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/191</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/190</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/189</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/188</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/187</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/186</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/185</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/184</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/183</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/182</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/181</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/180</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+  <url>
+    <mobile:mobile type="pc,mobile"/>
+    <loc>http://dev.51uit.com/question/179</loc>
+    <priority>0.5</priority>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>Daily</changefreq>
+  </url>
+</urlset>
