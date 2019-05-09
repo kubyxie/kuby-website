@@ -6,9 +6,9 @@ return [
             /*'dsn' => 'mysql:host=localhost;port=3306;dbname=51qiantu',
             'username' => 'root',
             'password' => 'root',*/
-            'dsn' => 'mysql:host=192.168.6.245;port=3306;dbname=51uit',
-            'username' => '51uit_rw',
-            'password' => 'ACSWXW3zAEbSgCme',
+            'dsn' => 'mysql:host=127.0.0.1;port=3306;dbname=51uit',
+            'username' => '数据库用户名',
+            'password' => '数据库密码',
             'charset' => 'utf8',
             'tablePrefix' => 'qt_',
         ],
